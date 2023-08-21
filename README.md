@@ -1,2 +1,2 @@
 # week-1-DA
-Week1 Challenger, Due August 24
+Week1 Challenge, Due August 24
